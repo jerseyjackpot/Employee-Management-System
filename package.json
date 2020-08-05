@@ -1,0 +1,27 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "Employee Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerseyjackpot/Employee-Management-System.git"
+  },
+  "keywords": [
+    "OOP",
+    "test"
+  ],
+  "author": "JS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerseyjackpot/Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/jerseyjackpot/Employee-Management-System#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.2.2"
+  }
+}
