@@ -4,7 +4,7 @@
   "description": "Employee Profile Generator",
   "main": "index.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
