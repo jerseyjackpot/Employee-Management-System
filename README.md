@@ -13,10 +13,11 @@ Screenshot of Deployed App
 ![Screen Shot 2020-08-10 at 3 07 00 PM](https://user-images.githubusercontent.com/64985702/89820719-73b40900-db1b-11ea-8b53-94ae683062ef.png)
 
 App Test
-https://github.com/jerseyjackpot/Employee-Management-System/blob/master/Assets/app%20test.gif
+![alt-text](https://github.com/jerseyjackpot/Employee-Management-System/blob/master/Assets/app%20test.gif)
 
 App Run
-https://github.com/jerseyjackpot/Employee-Management-System/blob/master/Assets/run%20app.gif
+![alt-text](https://github.com/jerseyjackpot/Employee-Management-System/blob/master/Assets/run%20app.gif)
+
 ## Table of Contents 
 
 * [Installation](#Installation)
